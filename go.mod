@@ -1,3 +1,3 @@
-module vipos89/commons
+module vipos89/common
 
 go 1.22.4
